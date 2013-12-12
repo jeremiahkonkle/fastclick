@@ -1,6 +1,6 @@
 {
-  "name": "fastclick",
-  "version": "0.6.10",
+  "name": "sw-fastclick",
+  "version": "0.7.0",
   "main": "lib/fastclick.js",
   "ignore": [
     "**/.*",
